@@ -1,0 +1,4 @@
+C:\Users\Dante\source\repos\ProjOOAula2\ProjOOAula2\obj\Debug\ProjOOGaragem.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\ProjOOAula2\ProjOOAula2\obj\Debug\ProjOOGaragem.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\ProjOOAula2\ProjOOAula2\obj\Debug\ProjOOAula2.exe
+C:\Users\Dante\source\repos\ProjOOAula2\ProjOOAula2\obj\Debug\ProjOOAula2.pdb

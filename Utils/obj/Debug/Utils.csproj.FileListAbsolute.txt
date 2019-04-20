@@ -1,0 +1,9 @@
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\bin\Debug\Utils.dll
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\bin\Debug\Utils.pdb
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\bin\Debug\Entidade.dll
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\bin\Debug\Entidade.pdb
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\obj\Debug\Utils.dll
+C:\Users\Dante\source\repos\ProjOOAula2\Utils\obj\Debug\Utils.pdb
